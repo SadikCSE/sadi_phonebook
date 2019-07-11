@@ -1,0 +1,13 @@
+body{
+    background: #ededed;
+}
+
+h1,h3{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+.continer{
+    background-color: #ffffff;
+    padding: 10px;
+}
